@@ -6,5 +6,5 @@
 MSc Software Development, Software Engineering Project. Grade: Commendation, 64%. Save our planet version of Monopoly in Java.
 
 View [Documentation](../master/Save-Our-Planet-Documentation.pdf)  
-View [Source](../master/Save-Our-Planet-Version-1.0)  
+View [Source Code](../master/Save-Our-Planet-Version-1.0)  
 
